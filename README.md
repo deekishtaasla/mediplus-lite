@@ -89,7 +89,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[[Add your demo video link here]](https://github.com/deekishtaasla/mediplus-lite/blob/d8fab5ded45dd7b0d2a4535cc52371c526be45c2/2025-02-01%2018-03-45.mp4)
 *Explain what the video demonstrates*
 
 # Additional Demos
